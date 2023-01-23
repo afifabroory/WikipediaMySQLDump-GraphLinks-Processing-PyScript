@@ -10,5 +10,6 @@
 
 What I learn?
 - Maximize hardware capabilities. Use Multiprocess, Thread, Async, etc. (Don't process in series)
-- Split the data (Chunking) and let each process in multiprocess handle it seperately.
+- Split the data (Chunking) and let each process in multiprocess handle it.
 - I/O operation is exspensive. Buffer...
+- Don't waste your time to use "Fast" programming language. Probably better if u can....
