@@ -7,3 +7,8 @@
 
 **10 min only! produce 18 GB (Filtered data) in Python** \
 ![aa](./assets/processing-time.jpg)
+
+What I learn?
+- Maximize hardware capabilities. Use Multiprocess, Thread, Async, etc. (Don't process in series)
+- Split the data (Chunking) and let each process in multiprocess handle it seperately.
+- I/O operation is exspensive. Buffer...
